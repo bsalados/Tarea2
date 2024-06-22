@@ -1,0 +1,1 @@
+{"reading1":{"title":"El extranjero","author":"Albert Camus","link":"./Book.txt"},"reading2":{"title":"El amor en los tiempos del colera","author":"Gabriel Garcia Marquez","sheets":"1000","link":"./Book.txt"}}
